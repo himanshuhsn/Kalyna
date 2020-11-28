@@ -15,7 +15,11 @@ The Kalyna cipher is implemented in python3. It can be run as python module pack
 - Code can be tested file by file
 - For getting only round key generation, test the file named key_expansion.py
 - For testing the encryption and decryption, test the file named cipher.py
-- Some of the code for analysis can be found on analysis branch
+- Kalyna\_attack\_tested folder contains the integral attack tested files, please run cipher.py
+- DDT.py and LAT.py is used for generating DDT and LAT for the cipher
+- Crypto\_term\_paper is the term paper
+- Crypto\_presentation is the presentation
+- Presentation file can be found on below link
 
 # Reference
 - https://github.com/Roman-Oliynykov/Kalyna-reference
