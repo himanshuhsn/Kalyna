@@ -4,12 +4,21 @@ The Kalyna cipher is implemented in python3. It can be run as python module pack
 
 # File structure
 
-- root
-  - \_\_init__.py
-  - cipher.py
-  - key_expansion.py
-- tools.py
-- readme.md
+- Kalyna
+  - kalyna
+    - cipher.py
+    - \_\_init.py
+    - key_expansion.py
+  - kalyna_attack_tested
+    - cipher.py
+    - \_\_init.py
+    - key_expansion.py
+  - Crypto_presentation.pdf
+  - Crypto_term_paper.pdf
+  - DDT.py
+  - LAT.pt
+  - readme.md
+  - tools.py
 
 # Test the code
 - Code can be tested file by file
