@@ -1,2 +1,0 @@
-# Kalyna
-Kalyna cipher
